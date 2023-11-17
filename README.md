@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yaashall01 and I'm junior software developer 
 - 👀 I’m passionate about Software/DevOps design and engineering 
-- 🌱 I’m currently seeking a remotely  job or intern 
-- 💞️ I’m looking to collaborate on Java and JavaScript projects
+- 🌱 I’m currently seeking a remote job or internship 
+- 💞️ I’m looking to collaborate on Java and nodeJS projects
 - 📫 How to reach me yassinechalh9@gmail.com
 
 <!---
